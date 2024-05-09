@@ -263,10 +263,11 @@ body {
 }
 
 .list-item::before {
-  content: url("img\index\icons1.webp"); /* Указываем путь к изображению маркера */
+  content: url("img/index/icons1.webp"); /* Используем прямой слеш в пути к изображению */
   margin-right: 10px; /* Отступ между маркером и текстом */
   height: 14px; /* Задаем высоту изображения маркера */
 }
+
 
 .list {
   list-style-type: none; /* Убираем стандартный маркер списка */
