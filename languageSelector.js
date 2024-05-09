@@ -125,7 +125,7 @@ function changeLanguage(language) {
         lessonsContent.innerHTML = `
           <div class='lesson-block'>
             <a href='lessons/english_lesson1.html'>
-              <img src='C:\\Users\\Mechta2023\\Desktop\\4 семестр\\протоколы и интерфейсы компьютерных систем\\3modul\\img\\book-list\\pp.png' alt='Lesson 1'>
+              <img src='../img//lessons//pp.webp' alt='Lesson 1'>
               <p>Lesson 1 Description</p>
             </a>
           </div>
