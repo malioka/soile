@@ -291,7 +291,6 @@ body {
   margin-right: 10px; /* Отступ между маркером и текстом */
   height: 14px; /* Задаем высоту изображения маркера */
 }
-
 .footer-menu {
   display: flex;
   flex-wrap: wrap;
